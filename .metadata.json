@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "marmap",
+    "oncran": true
+  }
+]
